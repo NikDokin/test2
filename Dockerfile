@@ -1,1 +1,1 @@
-FROM alpine:latest
+FROM fedora:latest

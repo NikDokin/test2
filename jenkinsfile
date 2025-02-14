@@ -4,7 +4,7 @@ pipeline {
     environment {
         DOCKER_IMAGE = Test_image2
         CONTAINER_NAME = Test_container2
-        REPO_URL = https://github.com/NikDokin/test2.git
+        REPO_URL = 'https://github.com/NikDokin/test2.git'
     }
 
     stages {
